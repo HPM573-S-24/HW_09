@@ -18,7 +18,7 @@ If the probability of 5-year survival is _q_, what probability distribution
 "the number of participants that survived beyond 5 years in a cohort of _N_ participants" would follow? 
 Make sure to also specify the parameters of this distribution. 
 _Hint_: Review the probability distributions that are discussed at the end of the 
-[Review of Probability](https://yale.instructure.com/courses/43583/files/folder/Class%20Notes?preview=2439617) 
+[Review of Probability](https://yale.instructure.com/courses/54313/files/folder/Class%20Notes?preview=3429587) 
 class notes.
 
 **Problem 3: Likelihood Calculation (Weight 1)**: 
