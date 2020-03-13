@@ -6,7 +6,7 @@ the [Lab_Calibration](https://github.com/HPM573/Lab_Calibration) repository.
 **Overview**:  Many clinical studies last for a limited number of years and hence, 
 cannot produce statistics on patient survival time. 
 Instead, they report the percentage of participants who survived beyond, for example, 5 years. 
-In this homework, we would like to calibrate our survival simulation model using the results of 
+In this homework, we would like to calibrate our survival model using the results of 
 a clinical study that followed a cohort of 573 patients over 5 years. 
 
 **Problem 1: Five-Year Survival (Weight 1)**. 
