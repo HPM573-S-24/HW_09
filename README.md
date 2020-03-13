@@ -36,11 +36,10 @@ Use the pmf method (which returns probability mass function) on the distribution
 Calibrate the survival model (with patient cohort size of 1,000) 
 using the results of the clinical study described above 
 (i.e. 400 of 573 participants survived at the end of the 5-year study period). 
-Report the estimated annual mortality probability and the 95% credible interval. 
 
-**Problem 5: Projection (Weight 3)**. 
-Use the calibrated model to estimate the mean survival time of the cohort of size 1,000. 
-Report the 95% projection interval. 
+**Problem 5: Projection and Parameter Estimation (Weight 3)**. 
+Use the calibrated model to estimate the mean survival time (and the 95% projection interval) of the cohort of size 1,000. 
+Report the estimated annual mortality probability and the 95% credible interval. 
 
 **Problem 6: Projection (Weight 1)**. 
 Recalibrate the model against a clinical study that reports 800 of 1146 participants 
