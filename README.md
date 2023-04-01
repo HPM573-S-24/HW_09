@@ -11,7 +11,7 @@ a clinical study that followed a cohort of 573 patients over 5 years.
 
 **Problem 1: Five-Year Survival (Weight 1)**. 
 Modify the survival model so that you can get the 
-"percentage of patients survived beyond 5 years" after simulating a cohort. 
+"percentage of patients survived beyond (>) 5 years" after simulating a cohort. 
 
 **Problem 2: Likelihood Assumption (Weight 1)**. 
 If the probability of 5-year survival is _q_, what probability distribution 
